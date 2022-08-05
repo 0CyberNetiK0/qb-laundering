@@ -7,3 +7,5 @@ Features :
 - invest to the company 
 - wash money 
 - sell items 
+
+Original Creator Link - https://github.com/Geenensq/qb-laundering
